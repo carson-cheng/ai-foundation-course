@@ -1,4 +1,4 @@
-# AI Foundation Course
+# AI Foundation + Programming Course
 
 ## 📖 Table of Contents
 
